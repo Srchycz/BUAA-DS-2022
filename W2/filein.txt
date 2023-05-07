@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+void main()
+
+{
+
+    FILE * IN;
+
+    if((IN=fopen("in.txt","r"))==NULL)
+
+    {
+
+       printf("Can&rsquo;t open in.txt!");
+
+       return;
+
+    }
+    fclose(IN);
+}
+inin;
+FILE * iNinin;
+    if((iN=fopen("in.txt","r"))==NULL)
+    {
+        printf("Can't open IN.txt!");
+        return;
+    }
+    fclose(In);<
